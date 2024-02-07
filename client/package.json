@@ -11,16 +11,17 @@
   "dependencies": {
     "@thirdweb-dev/react": "^3",
     "@thirdweb-dev/sdk": "^3",
-    "ethers": "^5.7.2",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-router-dom": "^6.4.4"
+    "autoprefixer": "^10.4.14",
+    "ethers": "^5",
+    "postcss": "^8.4.26",
+    "react": "^18.2",
+    "react-dom": "^18.2",
+    "react-router-dom": "^6.14.1",
+    "tailwindcss": "^3.3.3"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^2",
-    "autoprefixer": "^10.4.13",
-    "postcss": "^8.4.19",
-    "tailwindcss": "^3.2.4",
-    "vite": "^3"
+    "vite": "^3",
+    "vite-plugin-node-polyfills": "^0.7.0"
   }
 }
